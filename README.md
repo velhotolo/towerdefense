@@ -9,9 +9,18 @@ Tower Defense com foco em construção tática feito em **Lua + LÖVE2D**. Sprit
 * This repo is in portuguese because this game is dedicated to my Nephew, with LÖVE, and he doesn't speak english. Game is in portuguese as well. 
 
 ## 📸 Progresso
-| Dia 1: Sprites | Dia 6: Jogo Completo |
-| :---: | :---: |
-| ![Dia 1](https://via.placeholder.com/400x250?text=Print+Dia+1)
+
+| Dia 1: Sprites |
+
+
+ <img width="718" height="646" alt="Captura de tela de 2026-11-23 05-09-07" src="https://github.com/user-attachments/assets/48669268-f1ba-43db-82ac-de9f76e57a30" />  
+ 
+ | Dia 2: Levels | 
+ 
+ <img width="848" height="368" alt="Captura de tela de 2026-11-23 05-11-44" src="https://github.com/user-attachments/assets/49b9e512-e2f7-4178-b6d7-c1ed6f147339" />
+
+               
+
 
 ## 🎮 Controles
 - **[1]** Barreira de Madeira (na estrada — atrasa orcs) — `25 ouro`
